@@ -1,0 +1,18 @@
+Resultados Coloracao de Grafos
+Instancia - Num. Cor - Melhor - Tempo
+gcol1 - 20 - ? - 0.08905984 segundos
+gcol2 - 46 - ? - 1.39511770 segundos
+DSJC250.5 - 38 - 28 - 1.22495112 segundos
+DSJC500.1 - 17 - 12 - 0.57316964 segundos
+DSJC500.5 - 68 - 48 - 8.22981282 segundos
+DSJC500.9 - 166 - 126 - 120.16903511 segundos
+DSJC1000.1 - 29 - 20 - 1.28980227 segundos
+DSJC1000.5 - 118 - 85 - 99.24646376 segundos
+R125.1.col - 5 - ? - 0.01591853 segundos 
+R250.5.col - 70 - 66 - 1.33699212 segundos
+R1000.1.col - 111 - 98 - 243.33531915 segundos
+R1000.5.col - 256 - 234 - 149.43000060 segundos
+le450_25c.col - 30 - 25 - 0.44442063 segundos
+le450_25d.col - 30 - 25 - 0.80194624 segundos
+flat300_28_0.col - 44 - 28 - 1.92779596 segundos
+flat1000_50_0.col - 118 - 50 - 73.77653464 segundos 
